@@ -74,7 +74,7 @@ public class Book {
   }
 
 
-//handles the updating and creating  
+//handles the updating and creating
   @PrePersist
   protected void onCreate() {
     this.createdAt = new Date();
@@ -85,7 +85,7 @@ public class Book {
     this.updatedAt = new Date();
   }
 
-//*********** getters and setters ************/
+//*********** getters and setters *********/
   public Long getId() {
     return this.id;
   }
