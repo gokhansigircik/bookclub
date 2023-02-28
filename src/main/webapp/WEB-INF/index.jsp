@@ -18,7 +18,7 @@ pageEncoding="UTF-8"%>
     <!-- change to match your file/naming structure -->
     <script src="/webjars/bootstrap/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="/js/app.js"></script>
-    <!-- change to match your file/naming structure -->
+    <!-- change to match you file/naming structure -->
   </head>
   <body>
     <div class="container mx-75 align-items" class="d-inline-block bd-highlight" >
